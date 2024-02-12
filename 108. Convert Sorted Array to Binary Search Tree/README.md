@@ -3,3 +3,10 @@
 
 ## Algorithm
 *Coming soon*
+
+## Tags
+ - Array
+ - Divide and Conquer
+ - Tree
+ - Binary Search Tree
+ - Binary Tree
